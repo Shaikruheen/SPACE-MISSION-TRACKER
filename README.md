@@ -26,3 +26,6 @@ You can add missions, view all missions, filter by status, search by name/agency
    ```bash
    git clone https://github.com/<your-username>/space-mission-tracker.git
    cd space-mission-tracker
+2. Run the Python file:
+
+   python space_mission_tracker.py
